@@ -1,5 +1,4 @@
 import os
-import tensorflow
 
 from flask import Flask
 
